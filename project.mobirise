@@ -10,7 +10,7 @@
         "#2c2c2c"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/photography-128x128-1.png",
     "noImageResize": ""
   },
   "pages": {
