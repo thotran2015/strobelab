@@ -3,7 +3,7 @@
     "name": "Strobe Project Laboratory",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 39,
+    "uniqCompNum": 49,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -50,84 +50,84 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-30-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-30-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "A perfect milkdrop right before contact with a red plate",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-32-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-32-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Splash!&nbsp;",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-33-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-33-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Splash, splash!!",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-34-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-34-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Dome splash!",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-35-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-35-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Flatten!",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-36-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-36-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Flat as a pancake!",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-37-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-37-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Splash!",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-38-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-38-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "A rising crown.",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-39-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-39-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Milk crown!",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-40-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-40-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "A beautiful crown.",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-41-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-41-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Almost perfect crown.",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-27-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-27-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Those little beads at the ring of the crown.",
                 "active": true
               }
             ]
@@ -697,7 +697,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "noGutter": true,
-            "showText": false,
+            "showText": true,
             "showBullets": true,
             "bgColor": "#4c6972",
             "images": [
@@ -705,28 +705,28 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-0236-1-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-0236-1-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "A cube falling into water.",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-242-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-242-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Splash! A marble dropping into blue water.",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-244-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-244-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "More splash!",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-233-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-233-2000x1333-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Nicholas drops a ball at one meter.",
                 "active": true
               }
             ]
@@ -917,8 +917,8 @@
           },
           "title": "Contact",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Contact us at thotran9@mit.edu (Tho Tran), (Nicholas Curtis), (Shakti Shaligram), and (Professor Bale). Go to the class website to learn more about Strobe Project Laboratory.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">6.136: Strobe Project Laboratory</a>",
+          "text": "<p>Contact us at thotran9@mit.edu (Tho Tran), ncurtis@mit.edu (Nicholas Curtis), shaktishaligram@gmail.com (Shakti Shaligram), and bales@mit.edu (Professor Bales). Please check out the class website to learn more about Strobe Project Laboratory.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://edgerton.mit.edu/courses/strobe-project-laboratory\" data-toolbar=\"-mbrBtnMove\">6.163: Strobe Project Laboratory</a>",
           "_tags": [
             "Theme"
           ],
@@ -985,21 +985,12 @@
           "_anchor": "menu-k"
         },
         {
-          "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
+              "text-align": "center"
             },
             ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            },
-            ".mbr-article P": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_params": {
@@ -1007,32 +998,32 @@
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": true,
-            "showButton": false,
+            "showButton": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "About",
-          "text": "<p>These photos were taken for a MIT class (6.136) called Strobe Project Laboratory.&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "These photos were captured by using high-speed imaging for a MIT class (6.163) called Strobe Project Laboratory. Please check out the class website to learn more about high-speed imaging.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://edgerton.mit.edu/courses/strobe-project-laboratory\" data-toolbar=\"-mbrBtnMove\">6.163: STROBE PROJECT LABORATORY</a>",
           "_tags": [
             "Theme"
           ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-l"
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1c"
         }
       ]
     }
